@@ -4,7 +4,7 @@ import 'app_theme.dart';
 import 'choix_histoire.dart';
 import 'compte_utilisateur.dart';
 import 'mes_exercices.dart';
-import 'mes_progress.dart';
+import 'Mes_progres.dart';
 import 'parametres.dart';
 import 'page_garde.dart';
 
